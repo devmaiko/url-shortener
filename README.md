@@ -7,6 +7,9 @@ This is a URL shortener service developed in TypeScript and Nest.js, utilizing R
 
 This service allows users to shorten long URLs into concise, easy-to-share links. It provides a RESTful API for shortening URLs and redirecting users to the original long URLs.
 
+## Videos
+- [Complete feature working](https://drive.google.com/file/d/12leK7WIccR2kyukd4cHF4VNbn_vvRsGI/view?usp=sharing)
+  
 ## Features
 
 - Shorten URLs: Convert long URLs into short, manageable links.
